@@ -1,0 +1,30 @@
+[
+    {
+        "title": "Python Programming",
+        "author": "Anamul Haque",
+        "isbn": 76955,
+        "year": 2024,
+        "price": 250,
+        "quantity": 10,
+        "bookAddAt": "13-12-2024 18:57:37"
+    },
+    {
+        "title": "Java Programming",
+        "author": "Anamul Haque",
+        "isbn": 85671,
+        "year": 2025,
+        "price": 250,
+        "quantity": 15,
+        "bookAddAt": "13-12-2024 20:15:49",
+        "bookLastUpdateAt": "13-12-2024 20:29:08"
+    },
+    {
+        "title": "Data Structure",
+        "author": "Anamul Haque",
+        "isbn": 29432,
+        "year": 2018,
+        "price": 250,
+        "quantity": 30,
+        "bookAddAt": "13-12-2024 22:59:12"
+    }
+]
